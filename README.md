@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
   - [Configure-SIEM-Security-Operations-Using-Microsoft-Sentinel](https://github.com/tanvir2220/Configure-SIEM-Security-Operations-Using-Microsoft-Sentinel)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
