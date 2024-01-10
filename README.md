@@ -3,9 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Configure SIEM Security Operations Using Microsoft Sentinel](https://github.com/tanvir2220/Configure-SIEM-Security-Operations-Using-Microsoft-Sentinel)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Vulnerability Scanning on Windows Hosts Using Nessus](https://github.com/tanvir2220/Vulnerability-Scanning-on-Windows-Hosts-Using-Nessus)
 
 
 <h2> 🤳 Connect with me:</h2>
