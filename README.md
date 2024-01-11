@@ -7,6 +7,7 @@
   - [Create Honeypots to Observe LIVE Cyber Attacks and Convert Source IP to Geolocation](https://github.com/tanvir2220/Create-Honeypots-to-Observe-LIVE-Cyber-Attacks-and-Convert-Source-IP-to-Geolocation)
   - [Hosting of Password Management System in AWS](https://github.com/tanvir2220/Hosting-of-Password-Management-System-in-AWS)
   - [AI Enabled Incident Response Automation in Microsoft Azure ](https://github.com/tanvir2220/AI-Enabled-Incident-Response-Automation-in-Microsoft-Azure-)
+  - [Vulnerability Scanning on Windows Hosts Using OpenVAS in a Cloud Environment](https://github.com/tanvir2220/Vulnerability-Scanning-on-Windows-Hosts-Using-OpenVAS-in-a-Cloud-Environment/tree/main)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
