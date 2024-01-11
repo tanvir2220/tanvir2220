@@ -8,6 +8,7 @@
   - [Hosting of Password Management System in AWS](https://github.com/tanvir2220/Hosting-of-Password-Management-System-in-AWS)
   - [AI Enabled Incident Response Automation in Microsoft Azure ](https://github.com/tanvir2220/AI-Enabled-Incident-Response-Automation-in-Microsoft-Azure-)
   - [Vulnerability Scanning on Windows Hosts Using OpenVAS in a Cloud Environment](https://github.com/tanvir2220/Vulnerability-Scanning-on-Windows-Hosts-Using-OpenVAS-in-a-Cloud-Environment/tree/main)
+  - [PCI DSS Compliance Challenge Mitigation for a Non-Banking Financial Organization of Bangladesh](https://github.com/tanvir2220/PCI-DSS-Compliance-Challenge-Mitigation-for-a-Non-Banking-Financial-Organization-of-Bangladesh/tree/main)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
