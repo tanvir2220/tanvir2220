@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tanvir! <br/><a href="https://github.com/tanvir2220">Cybersecurity Aspirant</a>, <a href="https://www.linkedin.com/in/tanvir-khasru-adnan/">Network Security Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Configure SIEM Security Operations Using Microsoft Sentinel](https://github.com/tanvir2220/Configure-SIEM-Security-Operations-Using-Microsoft-Sentinel)
   - [Vulnerability Scanning on Windows Hosts Using Nessus](https://github.com/tanvir2220/Vulnerability-Scanning-on-Windows-Hosts-Using-Nessus)
@@ -9,6 +9,8 @@
   - [AI Enabled Incident Response Automation in Microsoft Azure ](https://github.com/tanvir2220/AI-Enabled-Incident-Response-Automation-in-Microsoft-Azure-)
   - [Vulnerability Scanning on Windows Hosts Using OpenVAS in a Cloud Environment](https://github.com/tanvir2220/Vulnerability-Scanning-on-Windows-Hosts-Using-OpenVAS-in-a-Cloud-Environment/tree/main)
   - [PCI DSS Compliance Challenge Mitigation for a Non-Banking Financial Organization of Bangladesh](https://github.com/tanvir2220/PCI-DSS-Compliance-Challenge-Mitigation-for-a-Non-Banking-Financial-Organization-of-Bangladesh/tree/main)
+
+<h2>👨‍💻 Network Security Projects</h2>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
