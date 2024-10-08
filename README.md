@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tanvir! <br/><a href="https://github.com/tanvir2220">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/tanvir-khasru-adnan/">Network Security Professional</a></h1>
+<h1>Hi, I'm Tanvir! <br/><a href="https://github.com/tanvir2220">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
